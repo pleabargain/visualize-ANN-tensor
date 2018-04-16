@@ -1,6 +1,7 @@
 keras-tqdm>=2, <3
 numpy>=1, <2
 IPython>=6, <7
+tensorflow>=1.7.0, <2
 uncertainties>= 3.0.2, <4
 nbconvert>=5.3, <5.4
 traitlets>=4.3, <4.4
